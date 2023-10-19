@@ -1,0 +1,5 @@
+Create a file
+git add - to add the untracked file
+git commit
+git push origin main
+git status
